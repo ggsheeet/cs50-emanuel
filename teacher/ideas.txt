@@ -1,0 +1,6 @@
+1. Print message / with user input
+2. Add / subtract / multiply / divide
+3. Mad libs
+4. Roll dice
+5. Guess number
+6. Build pyramid
