@@ -1,0 +1,27 @@
+1. Create a calculator!
+  - Don't worry, not a single calculator that can add/subtract/multiply/divide
+  - Create one function for each. Each function should take 2 user inputs (at least):
+    * One function should output the sum of those inputs
+    * One function should output the subtraction of those inputs
+    * One function should output the multiplication of those inputs
+    * One function should output the division of those inputs
+  - No extra requirements but you are welcome to add whatever features you like! (like printing "Luis is the best teacher" or whatever you want of course...)
+  
+2. Create a dice roller!
+  - Write a function that when it gets executed, it rolls a dice and outputs a number between 1 and 6
+  - For this, it is important you look up python's "random" library and how to use "randint".
+  - No extra requirements but I encourage you to get creative with what you know! The text editor is your canvas and code is your art!
+
+# Googling, ChatGPTing, YouTube videoing are all allowed! Better to be resourceful than be a know-it-all...
+# Don't forget to ask any questions, no dumb questions in my class! (Only dummies who don't ask... xD)
+    ___________ __
+    |    ___  _|__|_
+    |  ,'   '. {'\)  
+    | :  O O  : )(   
+    | :  ._\. :/ )\  
+    |  '.___\\/ / | 
+    |        '-'  |
+    |_________|   |
+       /-----\|___|
+      /       \||| 
+              .:;;
