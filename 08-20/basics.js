@@ -23,3 +23,10 @@ function printMessage(message) {
 }
 // Function call
 printMessage("Hello Students!")
+
+values = [1, 2, 3]
+
+//  iterate: operar/leer un listado (uno por uno)
+for (let i = 0; i < values.length; i++) {
+  print(values[i])
+}
